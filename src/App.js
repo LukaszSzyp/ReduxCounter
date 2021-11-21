@@ -1,7 +1,9 @@
+import { Content } from "./component/content/content";
+
 function App() {
   return (
     <div className="App">
-      <h3>Counter</h3>
+      <Content />
     </div>
   );
 }
